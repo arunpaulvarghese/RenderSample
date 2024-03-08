@@ -4,9 +4,10 @@ pandas>=1.4.4
 scipy>=1.9.1
 matplotlib>=3.5.2
 Cython>=0.29.32
-gunicorn==21.2.0
+gunicorn
 itsdangerous==2.0.1
 Jinja2==2.11.3
 MarkupSafe==2.0.1
 Werkzeug==2.0.3
 scikit-learn>=1.0.2
+collection
